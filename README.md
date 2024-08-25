@@ -4,11 +4,11 @@ This repository contains a simple yet powerful calculator application. The calcu
 
 # Features
 
-·  Basic Operations: Perform addition, subtraction, multiplication, and division.
-·  Clear Interface: Simple and intuitive user interface for seamless interaction.
-·  Modular Code: Well-structured and modular codebase, easy to extend and maintain.
-·  Scientific Mode: Access advanced mathematical functions such as trigonometry, logarithms, exponentiation, and more.
-·  Programmer Mode: Perform bitwise operations, conversions between number bases (binary, octal, decimal, hexadecimal), and other features tailored for 
+-  **Basic Operations**: Perform addition, subtraction, multiplication, and division.
+-  **Clear Interface**: Simple and intuitive user interface for seamless interaction.
+-  **Modular Code**: Well-structured and modular codebase, easy to extend and maintain.
+-  **Scientific Mode**: Access advanced mathematical functions such as trigonometry, logarithms, exponentiation, and more.
+-  **Programmer Mode**: Perform bitwise operations, conversions between number bases (binary, octal, decimal, hexadecimal), and other features tailored for 
    programming needs.
 
 # Prievew
